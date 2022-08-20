@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidNguyenHuu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning cloud services.
+- 🌱 I’m currently learning cloud services & computer graphics.
 - 📫 How to reach me @ https://www.linkedin.com/in/david-nguyen-huu-002a13179/ (feel free to connect)
 
 <!---
